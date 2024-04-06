@@ -1,7 +1,7 @@
 
 ---
 
-# Python FPDF2 Table
+# Python Fpdf2 Table
 
 ***
 
